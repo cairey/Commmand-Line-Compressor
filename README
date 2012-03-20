@@ -1,0 +1,4 @@
+Check the Compressor.cs file for command line arguments.
+
+Takes a source directory. e.g. "C:\JavaScripts"
+Takes a output filename e.g. "combined.js"
