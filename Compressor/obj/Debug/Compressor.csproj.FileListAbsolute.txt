@@ -1,0 +1,5 @@
+C:\MyProjects\Compressor\trunk\Source\Compressor\obj\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\Compressor\trunk\Source\Compressor\bin\Debug\Compressor.exe
+C:\MyProjects\Compressor\trunk\Source\Compressor\bin\Debug\Compressor.pdb
+C:\MyProjects\Compressor\trunk\Source\Compressor\obj\Debug\Compressor.exe
+C:\MyProjects\Compressor\trunk\Source\Compressor\obj\Debug\Compressor.pdb
